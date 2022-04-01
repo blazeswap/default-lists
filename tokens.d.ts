@@ -2,6 +2,7 @@ export interface Token {
   address: string;
   chainId: number;
   decimals: number;
+  native?: boolean;
   logoURI: string;
   name: string;
   symbol: string;
