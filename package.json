@@ -2,8 +2,15 @@
   "name": "@blazeswap/default-lists",
   "version": "0.5.0",
   "description": "A list of default tokens, providers, bananas",
-  "main": "index.js",
+  "main": "index.cjs.js",
+  "module": "index.esm.mjs",
   "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.esm.mjs",
+      "require": "./index.cjs.js"
+    }
+  },
   "scripts": {
     
   },
