@@ -1,9 +1,10 @@
 export interface Provider {
   address: string;
   chainId: number;
-  description: string;
-  logoURI: string;
+  description?: string;
+  logoURI?: string;
   name: string;
+  url?: string;
 }
 
 export type ProviderArray = Provider[];
