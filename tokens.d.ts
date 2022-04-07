@@ -3,7 +3,7 @@ export interface Token {
   chainId: number;
   decimals: number;
   native?: boolean;
-  logoURI: string;
+  logoURI?: string;
   name: string;
   symbol: string;
 }
