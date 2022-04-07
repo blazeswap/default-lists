@@ -3,7 +3,7 @@ export interface Network {
   assetCode: string;
   blockExplorer: string;
   cflrFaucet?: string;
-  chainId: number;
+  chainId: string;
   chainName: string;
   rpcEnpoint: string;
   websocketEndpoint?: string;
