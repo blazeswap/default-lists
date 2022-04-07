@@ -1,0 +1,22 @@
+{
+  "networks": [
+    {
+      "apiDocs": "https://web3js.readthedocs.io/en/v1.3.4/",
+      "assetCode": "CFLR",
+      "blockExplorer": "https://coston-explorer.flare.network/",
+      "cflrFaucet": "https://faucet.towolabs.com/",
+      "chainId": 16,
+      "chainName": "Coston Test Network",
+      "rpcEnpoint": "https://coston-api.flare.network/ext/bc/C/rpc",
+      "websocketEndpoint": "wss://coston-api.flare.network/ext/bc/C/ws"
+    },
+    {
+      "apiDocs": "https://web3js.readthedocs.io/en/v1.3.4/",
+      "assetCode": "CFLR",
+      "blockExplorer": "https://songbird-explorer.flare.network/",
+      "chainId": 10,
+      "chainName": "Songbird Canary Network",
+      "rpcEnpoint": "https://songbird.towolabs.com/rpc"
+    }
+  ]
+}
