@@ -126,6 +126,10 @@
     "address" : "0x44Fd0E5C3AacD66D83e1518f1C1b79dC379d87Ac"
   }, {
     "chainId" : 19,
+    "name" : "BushiFTSO",
+    "address" : "0x0d3852Ad415477fFC39ce9351bD4dEdbbd585833"
+  }, {
+    "chainId" : 19,
     "name" : "Cacao Labs",
     "address" : "0x8d9143D995ADB68F8c866902fE64bBba11100Ad9"
   }, {
@@ -372,6 +376,10 @@
     "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x62d6116d6A139F2D402e8d8E30BAaF5790542801.png"
   }, {
     "chainId" : 19,
+    "name" : "Invitech",
+    "address" : "0xD5756A41dCa9d40bE406BA2D0EB3DC340E03AdbA"
+  }, {
+    "chainId" : 19,
     "name" : "KnotNodes",
     "address" : "0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B"
   }, {
@@ -508,6 +516,13 @@
     "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC0FFaCc88F782785Ecc5BC9Fe3E390F52cE55760.png"
   }, {
     "chainId" : 19,
+    "name" : "sigma7",
+    "description" : "sigma7 - Applied Financial Analytics",
+    "url" : "https://ftso.sigma7.io",
+    "address" : "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
+    "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
+  }, {
+    "chainId" : 19,
     "name" : "SignalChamp",
     "description" : "SignalChamp is a premium and super-fast delegation service. Enjoy high reward rates and low fees with just a few clicks.",
     "url" : "https://www.signalchamp.com",
@@ -576,6 +591,17 @@
     "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf45e6102E702A95f633D1D914f6FB5f0cA344E80.png"
   }, {
     "chainId" : 19,
+    "name" : "tSovereign",
+    "address" : "0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15"
+  }, {
+    "chainId" : 19,
+    "name" : "uGaenn",
+    "description" : "Your gain is our first priority.",
+    "url" : "https://ugaenn.io/",
+    "address" : "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
+    "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
+  }, {
+    "chainId" : 19,
     "name" : "Use Your Spark",
     "description" : "Global Signal Provider for the Flare Time Series Oracle (FTSO), offering vote delegation services to Songbird (SGB) token holders. Start earning risk-free rewards today!",
     "url" : "https://www.useyourspark.com",
@@ -603,24 +629,6 @@
     "url" : "https://www.xdrops.live",
     "address" : "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
     "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A.png"
-  }, {
-    "chainId" : 19,
-    "name" : "sigma7",
-    "description" : "sigma7 - Applied Financial Analytics",
-    "url" : "https://ftso.sigma7.io",
-    "address" : "0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0",
-    "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xe11984cAc4518eBC18c428b86884b5b1cc1F7be0.png"
-  }, {
-    "chainId" : 19,
-    "name" : "tSovereign",
-    "address" : "0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15"
-  }, {
-    "chainId" : 19,
-    "name" : "uGaenn",
-    "description" : "Your gain is our first priority.",
-    "url" : "https://ugaenn.io/",
-    "address" : "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
-    "logoURI" : "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61.png"
   }, {
     "chainId" : 16,
     "name" : "Flare Test Provider #1",
