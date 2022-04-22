@@ -632,18 +632,22 @@
   }, {
     "chainId" : 16,
     "name" : "Flare Test Provider #1",
-    "address" : "0xb849b93B585eFfb7cE4B522Ff88d9b3B24955f24"
+    "address" : "0xABaA1718C2d80fC037Bf66e3f66f0975D67431a9"
   }, {
     "chainId" : 16,
     "name" : "Flare Test Provider #2",
-    "address" : "0xE80c39Eae57c0359EE6c4086e2b22300353728e1"
+    "address" : "0xb849b93B585eFfb7cE4B522Ff88d9b3B24955f24"
   }, {
     "chainId" : 16,
     "name" : "Flare Test Provider #3",
-    "address" : "0x07f5053C867AE107Db15A38Aa4421b2c24aC4e51"
+    "address" : "0xE80c39Eae57c0359EE6c4086e2b22300353728e1"
   }, {
     "chainId" : 16,
     "name" : "Flare Test Provider #4",
+    "address" : "0x07f5053C867AE107Db15A38Aa4421b2c24aC4e51"
+  }, {
+    "chainId" : 16,
+    "name" : "Flare Test Provider #5",
     "address" : "0x55FcF7806F556204141Fe90FBe9Ce6207D9c52AC"
   } ]
 }
