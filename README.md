@@ -1,2 +1,2 @@
 # default-lists
-A list of default tokens, providers, bananas
+A list of default tokens and FTSO providers for BlazeSwap

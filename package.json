@@ -1,7 +1,7 @@
 {
   "name": "@blazeswap/default-lists",
   "version": "0.5.0",
-  "description": "A list of default tokens, providers, bananas",
+  "description": "A list of default tokens and FTSO providers for BlazeSwap",
   "main": "index.cjs.js",
   "module": "index.esm.mjs",
   "types": "index.d.ts",
@@ -11,16 +11,12 @@
       "require": "./index.cjs.js"
     }
   },
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blazeswap/default-lists.git"
   },
-  "keywords": [
-    
-  ],
+  "keywords": [],
   "author": "BlazeSwap",
   "license": "MIT",
   "bugs": {
