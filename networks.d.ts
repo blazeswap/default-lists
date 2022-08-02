@@ -1,11 +1,10 @@
 export interface Network {
-  apiDocs?: string;
   assetCode: string;
   blockExplorer: string;
   cflrFaucet?: string;
   chainId: string;
   chainName: string;
-  rpcEnpoint: string;
+  rpcEndpoint: string;
   websocketEndpoint?: string;
 }
 
