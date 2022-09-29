@@ -1,7 +1,7 @@
 export interface Network {
   assetCode: string;
   blockExplorer: string;
-  cflrFaucet?: string;
+  faucet?: string;
   chainId: string;
   chainName: string;
   rpcEndpoint: string;
