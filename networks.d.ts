@@ -4,6 +4,7 @@ export interface Network {
   faucet?: string;
   chainId: string;
   chainName: string;
+  gasLimit: number;
   rpcEndpoint: string;
   websocketEndpoint?: string;
 }

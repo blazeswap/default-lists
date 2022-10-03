@@ -6,6 +6,7 @@
       "faucet": "https://faucet.towolabs.com/",
       "chainId": "0x10",
       "chainName": "Coston Test Network",
+      "gasLimit": 30000000,
       "rpcEndpoint": "https://cflr-rpc.ftso.eu/",
       "websocketEndpoint": "wss://cflr-ws.ftso.eu/"
     },
@@ -15,6 +16,7 @@
       "faucet": "https://coston2-faucet.towolabs.com/",
       "chainId": "0x72",
       "chainName": "Coston2 Test Network",
+      "gasLimit": 8000000,
       "rpcEndpoint": "https://coston2-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://coston2-api.flare.network/ext/C/ws"
     },
@@ -23,6 +25,7 @@
       "blockExplorer": "https://songbird-explorer.flare.network/",
       "chainId": "0x13",
       "chainName": "Songbird Canary Network",
+      "gasLimit": 30000000,
       "rpcEndpoint": "https://songbird-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://songbird-api.flare.network/ext/C/ws"
     },
@@ -31,6 +34,7 @@
       "blockExplorer": "https://flare-explorer.flare.network/",
       "chainId": "0x0e",
       "chainName": "Flare",
+      "gasLimit": 8000000,
       "rpcEndpoint": "https://flare-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://flare-api.flare.network/ext/C/ws"
     }
