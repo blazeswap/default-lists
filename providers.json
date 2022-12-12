@@ -98,6 +98,14 @@
     },
     {
       "chainId": 19,
+      "name": "CFN",
+      "description": "A passive income community driven project based on utility NFTs.",
+      "url": "https://cryptapero.fr",
+      "address": "0x889FD8C79FCC81E619b720BD589154C2c9fD74e9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x889FD8C79FCC81E619b720BD589154C2c9fD74e9.png"
+    },
+    {
+      "chainId": 19,
       "name": "Comfy Nodes",
       "description": "Only the comfiest rates.",
       "url": "https://www.comfynodes.com",
@@ -191,6 +199,14 @@
       "url": "https://www.flaris.uk",
       "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46.png"
+    },
+    {
+      "chainId": 19,
+      "name": "FTSchizO",
+      "description": "FTSchizO is a SGB/FLR data provider that focuses on esoteric community building.",
+      "url": "https://ftschizo.xyz",
+      "address": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86.png"
     },
     {
       "chainId": 19,
@@ -364,7 +380,7 @@
       "chainId": 19,
       "name": "NewWave",
       "description": "NewWave is a SongBird Network signal provider. We are proud to be a part of Flare Network.",
-      "url": "https://newwaveftso.com",
+      "url": "https://newwave-provider.com",
       "address": "0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xC84d776Ddf92dA03C37d77BC65519AF696cDfe8b.png"
     },
@@ -527,6 +543,22 @@
       "url": "https://tempestftso.com",
       "address": "0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4eb408FA585a5C66E523a4aE5f5706374Ec9E8c7.png"
+    },
+    {
+      "chainId": 19,
+      "name": "The Fat Cats FTSO",
+      "description": "The Fat Cats official Songbird data provider.",
+      "url": "https://fat-cats.club",
+      "address": "0x7776fC062AE648466958a28b3001f6a4517a147c",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7776fC062AE648466958a28b3001f6a4517a147c.png"
+    },
+    {
+      "chainId": 19,
+      "name": "True FTSO",
+      "description": "Still improving. No cheating. Reliable data. No dumping. Low fee.",
+      "url": "https://trueftso.com",
+      "address": "0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA.png"
     },
     {
       "chainId": 19,
