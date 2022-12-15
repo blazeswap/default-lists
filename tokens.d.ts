@@ -1,9 +1,9 @@
 export interface Token {
-  address: string;
+  address?: string;
   chainId: number;
   decimals: number;
   feePct?: number;
-  native?: boolean;
+  wrapped?: string;
   logoURI?: string;
   name: string;
   symbol: string;
