@@ -1,6 +1,24 @@
 {
   "networks": [
     {
+      "assetCode": "FLR",
+      "blockExplorer": "https://flare-explorer.flare.network/",
+      "chainId": "0x0e",
+      "chainName": "Flare Mainnet",
+      "gasLimit": 8000000,
+      "rpcEndpoint": "https://flare-api.flare.network/ext/C/rpc",
+      "websocketEndpoint": "wss://flare-api.flare.network/ext/C/ws"
+    },
+    {
+      "assetCode": "SGB",
+      "blockExplorer": "https://songbird-explorer.flare.network/",
+      "chainId": "0x13",
+      "chainName": "Songbird Canary Network",
+      "gasLimit": 30000000,
+      "rpcEndpoint": "https://songbird-api.flare.network/ext/C/rpc",
+      "websocketEndpoint": "wss://songbird-api.flare.network/ext/C/ws"
+    },
+    {
       "assetCode": "CFLR",
       "blockExplorer": "https://coston-explorer.flare.network/",
       "faucet": "https://faucet.towolabs.com/",
@@ -19,24 +37,6 @@
       "gasLimit": 8000000,
       "rpcEndpoint": "https://coston2-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://coston2-api.flare.network/ext/C/ws"
-    },
-    {
-      "assetCode": "SGB",
-      "blockExplorer": "https://songbird-explorer.flare.network/",
-      "chainId": "0x13",
-      "chainName": "Songbird Canary Network",
-      "gasLimit": 30000000,
-      "rpcEndpoint": "https://songbird-api.flare.network/ext/C/rpc",
-      "websocketEndpoint": "wss://songbird-api.flare.network/ext/C/ws"
-    },
-    {
-      "assetCode": "FLR",
-      "blockExplorer": "https://flare-explorer.flare.network/",
-      "chainId": "0x0e",
-      "chainName": "Flare Mainnet",
-      "gasLimit": 8000000,
-      "rpcEndpoint": "https://flare-api.flare.network/ext/C/rpc",
-      "websocketEndpoint": "wss://flare-api.flare.network/ext/C/ws"
     }
   ]
 }
