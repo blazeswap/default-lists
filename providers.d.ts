@@ -5,6 +5,7 @@ export interface Provider {
   logoURI?: string;
   name: string;
   url?: string;
+  listed?: boolean;
 }
 
 export type ProviderArray = Provider[];
