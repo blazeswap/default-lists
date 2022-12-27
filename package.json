@@ -1,6 +1,6 @@
 {
   "name": "@blazeswap/default-lists",
-  "version": "0.5.6",
+  "version": "1.0.0",
   "description": "A list of default tokens and FTSO providers for BlazeSwap",
   "main": "index.cjs.js",
   "module": "index.esm.mjs",
