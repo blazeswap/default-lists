@@ -594,7 +594,8 @@
       "description": "FTSO Stoadz provides a Flare Time Series Oracle for those who want to delegate their assets!",
       "url": "https://xtoadz.xyz/signal-provider",
       "address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png"
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05.png",
+      "listed": true
     },
     {
       "chainId": 14,
