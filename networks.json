@@ -3,7 +3,7 @@
     {
       "assetCode": "FLR",
       "blockExplorer": "https://flare-explorer.flare.network/",
-      "chainId": "0x0e",
+      "chainId": "0xe",
       "chainName": "Flare Mainnet",
       "gasLimit": 8000000,
       "rpcEndpoint": "https://flare-api.flare.network/ext/C/rpc",
