@@ -1,34 +1,6 @@
 {
   "networks": [
     {
-      "assetCode": "FLR",
-      "blockExplorer": "https://flare-explorer.flare.network/",
-      "chainId": "0xe",
-      "chainName": "Flare Mainnet",
-      "gasLimit": 8000000,
-      "rpcEndpoint": "https://flare-api.flare.network/ext/C/rpc",
-      "websocketEndpoint": "wss://flare-api.flare.network/ext/C/ws"
-    },
-    {
-      "assetCode": "SGB",
-      "blockExplorer": "https://songbird-explorer.flare.network/",
-      "chainId": "0x13",
-      "chainName": "Songbird Canary Network",
-      "gasLimit": 30000000,
-      "rpcEndpoint": "https://songbird-api.flare.network/ext/C/rpc",
-      "websocketEndpoint": "wss://songbird-api.flare.network/ext/C/ws"
-    },
-    {
-      "assetCode": "CFLR",
-      "blockExplorer": "https://coston-explorer.flare.network/",
-      "faucet": "https://faucet.towolabs.com/",
-      "chainId": "0x10",
-      "chainName": "Coston Test Network",
-      "gasLimit": 30000000,
-      "rpcEndpoint": "https://cflr-rpc.ftso.eu/",
-      "websocketEndpoint": "wss://cflr-ws.ftso.eu/"
-    },
-    {
       "assetCode": "C2FLR",
       "blockExplorer": "https://coston2-explorer.flare.network/",
       "faucet": "https://coston2-faucet.towolabs.com/",
