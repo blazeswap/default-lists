@@ -1,6 +1,7 @@
 export interface Network {
   assetCode: string;
   blockExplorer: string;
+  systemExplorer: string;
   faucet?: string;
   chainId: string;
   chainName: string;
