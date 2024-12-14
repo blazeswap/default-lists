@@ -16,7 +16,7 @@
       "systemExplorer": "https://songbird-systems-explorer.flare.rocks/",
       "chainId": "0x13",
       "chainName": "Songbird Canary Network",
-      "gasLimit": 30000000,
+      "gasLimit": 8000000,
       "rpcEndpoint": "https://songbird-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://songbird-api.flare.network/ext/C/ws"
     },
@@ -27,7 +27,7 @@
       "faucet": "https://coston1-faucet.towolabs.com/",
       "chainId": "0x10",
       "chainName": "Coston Test Network",
-      "gasLimit": 30000000,
+      "gasLimit": 8000000,
       "rpcEndpoint": "https://coston-api.flare.network/ext/C/rpc",
       "websocketEndpoint": "wss://coston-api.flare.network/ext/C/ws"
     },
