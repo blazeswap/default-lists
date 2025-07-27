@@ -2021,6 +2021,24 @@
       "address": "0xE80c39Eae57c0359EE6c4086e2b22300353728e1",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xE80c39Eae57c0359EE6c4086e2b22300353728e1.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FTSO.Best",
+      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network",
+      "url": "https://ftso.best",
+      "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "FTSO.Best",
+      "description": "ftso.best is an independent team focused solely on building projects for the Flare Network",
+      "url": "https://ftso.best",
+      "address": "0xc396b6f023f3A1C894a20FBa08432E847C05c7F9",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xc396b6f023f3A1C894a20FBa08432E847C05c7F9.png",
+      "listed": true
     }
   ]
 }
