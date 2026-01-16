@@ -20,15 +20,6 @@
     },
     {
       "chainId": 14,
-      "name": "ACDTftso",
-      "description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
-      "url": "https://www.acdtftso.it",
-      "address": "0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD.png",
-      "listed": true
-    },
-    {
-      "chainId": 14,
       "name": "AFOracle",
       "description": "AFOracle is an FTSO provider from AFLabs, a team that helped build the Flare's smart contract infrastructure.",
       "url": "https://aforacle.com",
@@ -205,6 +196,15 @@
     },
     {
       "chainId": 14,
+      "name": "Cottage Nodes",
+      "description": "Our delegation services enable token holders to earn lucrative rewards on the Flare Network. Advanced algorithms are constantly refined with the objective of generating maximum reward for the benefit of all Flare token holders who have delegated their vote to us. Validating from under the Alps.",
+      "url": "https://www.cottagenodes.com",
+      "address": "0x6EBbd69832AF87434253C10F9045E012286f509E",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x6EBbd69832AF87434253C10F9045E012286f509E.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "DataVector",
       "description": "DataVector is an Infrastructure Provider on Flare Network providing validation services and reliable data provisioning to the Flare oracle system.",
       "url": "https://datavector.org",
@@ -219,6 +219,15 @@
       "url": "https://defioracles.org",
       "address": "0x3fE77e9be1ECcDe815311f9bcc40814F4eC6AE09",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3fE77e9be1ECcDe815311f9bcc40814F4eC6AE09.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "Digital Dynamix",
+      "description": "The Digital Dynamix Validator is a key component of our expanding ecosystem on Flare which allows Rewards to be forwarded to our amazing community through novel initiatives - Sharing is Caring!",
+      "url": "https://www.digitaldynamix.co.uk",
+      "address": "0x57711D552E2309c7a83716351e7a59a438f17e3a",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x57711D552E2309c7a83716351e7a59a438f17e3a.png",
       "listed": true
     },
     {
@@ -325,6 +334,15 @@
       "url": "https://flare.space",
       "address": "0x111246F191a2A20012723369d3CEc77777E774E9",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x111246F191a2A20012723369d3CEc77777E774E9.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FlareBase",
+      "description": "FlareBase is an Italian Flare provider. We offer near real time prices with an high accuracy rate, FDC data and Flare validators.",
+      "url": "https://www.flare-base.io",
+      "address": "0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD.png",
       "listed": true
     },
     {
@@ -466,6 +484,14 @@
       "address": "0xDD27994108c788613800A8356253Aad99A5DAeD5",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xDD27994108c788613800A8356253Aad99A5DAeD5.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "FTSO Yggdrassil",
+      "description": "Inspired by the mighty Yggdrassil tree, my FTSO stands firmly rooted in the Flare Network nurturing reliable and decentralized data feeds, symbolizing strength and growth.",
+      "url": "https://ftso-yggdrassil.com",
+      "address": "0x3035364f988CfC4574D459009F9D3f68D9d734d7",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3035364f988CfC4574D459009F9D3f68D9d734d7.png"
     },
     {
       "chainId": 14,
@@ -690,6 +716,15 @@
     },
     {
       "chainId": 14,
+      "name": "MirSFlr",
+      "description": "On a mission to deliver fast, reliable and transparent data on the Flare Network to maximize rewards for delegators with near-zero downtime.",
+      "url": "https://www.mirhollio.com",
+      "address": "0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xAd9105BEF5E5df2Eacbe2De9037A96695b00cade.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "MyFTSO",
       "description": "MyFtso is a community centric data provider. We are looking to deliver accurate and reliable price feeds to the Flare/Songbird Networks to maximize returns for all.",
       "url": "https://myftso.xyz",
@@ -777,6 +812,15 @@
     },
     {
       "chainId": 14,
+      "name": "Quicknode",
+      "description": "Accelerating Web3 with lightning-fast Flare infrastructure ⚡ SOC 1 Type 2, SOC 2 Type 2, ISO 27001 Certified.",
+      "url": "https://quicknode.com",
+      "address": "0x7121Ee7189631b7DD08f0cc82F931403a0548E28",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x7121Ee7189631b7DD08f0cc82F931403a0548E28.png",
+      "listed": true
+    },
+    {
+      "chainId": 14,
       "name": "Resonance",
       "description": "Resonance delivers accurate, transparent oracle signals on Flare, while prioritizing durability and the network's long-term health over short-term wins.",
       "url": "https://resonanceoracle.xyz",
@@ -851,6 +895,15 @@
       "url": "https://solidifinexus.com",
       "address": "0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x4CfB79399cd840414a2BeF2c7C7A0cE3b9b0F89d.png"
+    },
+    {
+      "chainId": 14,
+      "name": "SparkDEX",
+      "description": "Flares DeFi Hub.",
+      "url": "https://sparkdex.ai",
+      "address": "0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xf8Fb4cD8728F7def92b12F9de005Df934f0b69cB.png",
+      "listed": true
     },
     {
       "chainId": 14,
@@ -1107,15 +1160,6 @@
       "url": "https://ftso.alexdupre.com",
       "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf.png",
-      "listed": true
-    },
-    {
-      "chainId": 19,
-      "name": "ACDTftso",
-      "description": "ACDTftso is an Italian provider. We offer near real time prices with an high accuracy rate and a simple Webapp for interact with Flare Network.",
-      "url": "https://www.acdtftso.it",
-      "address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
-      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png",
       "listed": true
     },
     {
@@ -1396,6 +1440,15 @@
       "url": "https://flare.space/songbird",
       "address": "0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0xCcd522393233052Dd0DfeAadc124a0a9bB87FD08.png",
+      "listed": true
+    },
+    {
+      "chainId": 19,
+      "name": "FlareBase",
+      "description": "FlareBase is an Italian Flare provider. We offer near real time prices with an high accuracy rate, FDC data and Flare validators.",
+      "url": "https://www.flare-base.io",
+      "address": "0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x86eC5c8Ce7a4DD7762Cff205d64Bfc0C272feB6d.png",
       "listed": true
     },
     {
